@@ -87,3 +87,12 @@ img{
     height: 200px;
     margin-right: 60px;
 }
+@media (max-width: 437px){
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    max-width: 1000px;
+}
+}

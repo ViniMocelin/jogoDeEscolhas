@@ -126,7 +126,7 @@ img{
     height: 400px;
 }
 
-@media (max-width: 457px){
+@media (max-width: 437px){
     header{
         size: 50%;
     }
